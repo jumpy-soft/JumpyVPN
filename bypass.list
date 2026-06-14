@@ -4,7 +4,6 @@ ru.gosuslugi.app
 ru.gosuslugi.auto
 ru.dom.gosuslugi
 ru.gosuslugi.goskey
-ru.vk.store
 
 # Банки
 ru.vtb24
@@ -42,3 +41,6 @@ ru.yandex.disk
 
 # Прочее
 ru.dublgis.dgismobile
+com.avito.android
+com.gpn.azc
+ru.vk.store
