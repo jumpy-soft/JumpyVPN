@@ -1,11 +1,35 @@
+# Госуслуги
 ru.oneme.app
-com.vkontakte.android
-ru.sberbankmobile
-ru.tinkoff.sme
-ru.tinkoff.mvno
-ru.tinkoff.investing
-ru.rostel
+ru.gosuslugi.app
+ru.gosuslugi.auto
+ru.dom.gosuslugi
+ru.gosuslugi.goskey
+ru.vk.store
+
+# Банки
+ru.vtb24
 ru.vtb24.mobilebanking.android
+com.idamob.tinkoff.android
+ru.tinkoff.sme
+ru.tinkoff.investing
+ru.alfabank.mobile.android
+ru.mts.bank
+ru.ozon.app.android
+ru.sberbankmobile
+
+# Операторы
+ru.rostel
+ru.mts
+ru.beeline.services
+ru.tele2.mytele2
+ru.megafon.mobile
+ru.rt.ru
+ru.tinkoff.mvno
+
+# Соцсети
+com.vkontakte.android
+
+# Яндекс
 com.yandex.search
 com.yandex.browser
 com.yandex.music
@@ -15,4 +39,6 @@ com.yandex.mail
 ru.yandex.taxi
 ru.yandex.market
 ru.yandex.disk
+
+# Прочее
 ru.dublgis.dgismobile
