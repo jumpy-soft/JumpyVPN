@@ -25,6 +25,7 @@ ru.alfabank.mobile.android
 ru.mts.bank
 ru.ozon.fintech.finance
 ru.sberbankmobile
+ru.nspk.mirpay
 
 # Операторы связи
 ru.rostel
@@ -49,6 +50,8 @@ com.yandex.mail
 ru.yandex.taxi
 ru.yandex.market
 ru.yandex.disk
+ru.foodfox.client
+ru.zen.android
 
 # Прочее
 ## VK
