@@ -23,7 +23,7 @@ ru.tinkoff.sme
 ru.tinkoff.investing
 ru.alfabank.mobile.android
 ru.mts.bank
-ru.ozon.app.android
+ru.ozon.fintech.finance
 ru.sberbankmobile
 
 # Операторы связи
@@ -66,8 +66,6 @@ com.gpn.azc
 ru.kinopoisk.tv
 ru.rutube.app
 
-## Музыка
-
 ## Доставка и магазины
 ru.sbmt.shopper
 ru.instamart
@@ -83,3 +81,5 @@ ru.mvm.eldo
 com.avito.android
 ru.tander.magnit
 com.wildberries.ru
+ru.ozon.app.android
+
