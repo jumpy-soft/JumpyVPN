@@ -4,6 +4,17 @@ ru.gosuslugi.app
 ru.gosuslugi.auto
 ru.dom.gosuslugi
 ru.gosuslugi.goskey
+ru.fns.lkfl
+com.gnivts.selfemployed
+ru.gnivc.lkip
+ru.fns.billchecker
+
+# Мессенджеры
+ru.oneme.app
+ru.max.app
+com.vk.im
+ru.mail.mailapp
+ru.mail
 
 # Банки
 ru.vtb24
@@ -27,6 +38,7 @@ ru.tinkoff.mvno
 
 # Соцсети
 com.vkontakte.android
+ru.ok.android
 
 # Яндекс
 com.yandex.search
@@ -48,3 +60,17 @@ com.wildberries.ru
 com.gpn.azc
 ru.vk.store
 com.vk.vkvideo
+com.vk.music
+ru.kinopoisk.tv
+com.samokat.app
+ru.megamarket
+ru.rutube.app
+ru.filit.mvideo.b2c
+ru.mvm.eldo
+ru.dns.shop.android
+ru.holodilnik.android
+ru.pyaterochka.app.browser
+pyaterochka.app
+ru.instamart
+ru.sbmt.shopper
+ru.dostaevsky.android
