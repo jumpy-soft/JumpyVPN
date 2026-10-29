@@ -26,7 +26,7 @@ ru.mts.bank
 ru.ozon.app.android
 ru.sberbankmobile
 
-# Операторы
+# Операторы связи
 ru.rostel
 ru.mts
 ru.beeline.services
@@ -51,25 +51,35 @@ ru.yandex.market
 ru.yandex.disk
 
 # Прочее
-ru.dublgis.dgismobile
-com.avito.android
-ru.tander.magnit
-com.wildberries.ru
-
-com.gpn.azc
+## VK
 ru.vk.store
 com.vk.vkvideo
 com.vk.music
+
+## 2ГИС
+ru.dublgis.dgismobile
+
+## Заправки
+com.gpn.azc
+
+## Видео
 ru.kinopoisk.tv
-com.samokat.app
-ru.megamarket
 ru.rutube.app
-ru.filit.mvideo.b2c
-ru.mvm.eldo
-ru.dns.shop.android
-ru.holodilnik.android
-ru.pyaterochka.app.browser
-pyaterochka.app
-ru.instamart
+
+## Музыка
+
+## Доставка и магазины
 ru.sbmt.shopper
+ru.instamart
 ru.dostaevsky.android
+ru.pyaterochka.app.browser
+ru.x5.mywork
+ru.filit.mvideo.b2c
+com.samokat.app
+ru.holodilnik.android
+ru.megamarket
+ru.dns.shop.android
+ru.mvm.eldo
+com.avito.android
+ru.tander.magnit
+com.wildberries.ru
